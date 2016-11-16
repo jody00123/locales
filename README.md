@@ -3,7 +3,7 @@
 ## File Structure
 
 * `/main/*.js` - Locale files for the main site (top page, video details, etc.)
-    - The files conform to the format as specified in the vue-i18n documentation: https://kazupon.github.io/vue-i18n/
+    - The files conform to the format as specified in vue-i18n documentation: https://kazupon.github.io/vue-i18n/
 
 ## Contributing
 
