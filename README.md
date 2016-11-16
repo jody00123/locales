@@ -1,5 +1,10 @@
 # Help otomads.com reach your people!
 
+## File Structure
+
+* `/main/*.js` - Locale files for the main site (top page, video details, etc.)
+    - The files conform to the format as specified in the vue-i18n documentation: https://kazupon.github.io/vue-i18n/
+
 ## Contributing
 
 By contributing to this repository, You confirm that you own the copyright and patent claims covering the contribution which are required.
