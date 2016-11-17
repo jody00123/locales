@@ -1,7 +1,8 @@
 export default {
   vendor: {
     moment: 'ja',
-    html: 'ja'
+    html: 'ja',
+    player: 'ja'
   },
   term: {
     login:  'ログイン',

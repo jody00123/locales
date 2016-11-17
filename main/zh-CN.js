@@ -1,7 +1,8 @@
 export default {
   vendor: {
     moment: 'zh-cn',
-    html: 'zh-Hans'
+    html: 'zh-Hans',
+    player: 'zh'
   },
   term: {
     login:  '登录',

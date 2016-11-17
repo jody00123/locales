@@ -1,7 +1,8 @@
 export default {
   vendor: {
     moment: 'en',
-    html: 'en'
+    html: 'en',
+    player: 'en'
   },
   term: {
     login:  'Sign in',
