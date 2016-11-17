@@ -28,7 +28,7 @@ export default {
       malleable:   '{time}内に編集できる'
     },
     commentList: {
-      title: 'コメント数（{count}）',
+      title: 'コメント ({count})',
       empty: 'コメントはありません'
     },
     footer: {
@@ -37,7 +37,7 @@ export default {
   },
   error: {
     generic: {
-      network: '通信エラー。',
+      network: '通信中にエラーが発生しました。',
       generic: '失敗しました。',
       notLoggedIn: 'まずログインしてください',
       permissionDenied: 'この権限はありません'
@@ -46,14 +46,14 @@ export default {
       nullName: 'ユーザー名が入力されていません。'
     },
     video: {
-      notFound: '動画が見つかりませんでした：投稿されていない、または削除された可能性があります。',
+      notFound: '動画が見つかりませんでした。投稿されていないか、削除された可能性があります。',
       nullId: '動画IDが入力されていません。',
       likeSuccess: '「いいね!」しました。'
     },
     tag: {
       nullTag:  'タグが入力されていません。',
       tooLong:  'タグの文字数が超えています。',
-      tooMuch:  'タグ数は制限に達しています。',
+      tooMuch:  'タグ数が制限に達しています。',
       notFound: '該当するタグは見つかりませんでした。',
       added:    'タグを追加しました。',
       removed:  'タグを削除しました。',
@@ -66,7 +66,7 @@ export default {
       amendFail:  '編集できませんでした：{message}',
       removeFail: '削除できませんでした：{message}',
       invalidContent: 'コメントが入力されていない、またはコメントの字数が制限を超えています。',
-      tooFast: 'コメントするスピードが速すぎる、もう一度送信してください。'
+      tooFast: 'コメントするスピードが速すぎます、しばらく待ってからもう一度コメントしてください。'
     }
   }
 };
