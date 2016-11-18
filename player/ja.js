@@ -1,5 +1,5 @@
 export default {
-  'Danmaku is loading': 'コメントをオードしています。',
+  'Danmaku is loading': 'コメントをロードしています。',
   'Top': 'トップ',
   'Bottom': '底',
   'Rolling': 'ローリング',
@@ -8,10 +8,10 @@ export default {
   'DPlayer feedback':  'プレアイーへのサポート',
   'About DPlayer': 'DPlayerについて',
   'Loop': 'ループ',
-  'Speed': 'スピード???',
+  'Speed': 'スピード',
   'Opacity for danmaku': '透明度',
   'Normal': '正常',
-  'Please input danmaku!': 'コメントを入力してください???',
+  'Please input danmaku!': 'コメントを入力してください',
   'Set danmaku color': 'カラーを設定',
   'Set danmaku type': 'タイプを設定',
   'Danmaku': 'コメント'
